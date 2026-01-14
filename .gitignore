@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Manim output
+media/
+output/audio/
+output/scenes/
+output/merged/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
